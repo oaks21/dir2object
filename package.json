@@ -1,0 +1,33 @@
+{
+  "name": "dir2object",
+  "version": "1.0.0",
+  "description": "This module translates directory structures into plain JavaScript object with fs.stats detail.",
+  "main": "dir2object.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/oaks21/dir2object"
+  },
+  "keywords": [
+    "directory",
+    "fs",
+    "directory structure",
+    "file",
+    "read",
+    "folder",
+    "tree",
+    "dir"
+  ],
+  "author": "oaks21",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oaks21/dir2object/issues"
+  },
+  "homepage": "https://github.com/oaks21/dir2object",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
