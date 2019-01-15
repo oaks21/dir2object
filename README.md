@@ -9,15 +9,13 @@ $ npm i dir2object
 
 * Usage
 
-```
+```javascript
 const dir2object = require('dir2object');
 
 console.log(dir2object(path))
 
 
 /*
-result:
-
 { dir2object:
    { '.git':
       { COMMIT_EDITMSG: [Stats],
