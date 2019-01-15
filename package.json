@@ -1,6 +1,6 @@
 {
   "name": "dir2object",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "This module translates directory structures into plain JavaScript object with fs.stats detail.",
   "main": "dir2object.js",
   "scripts": {
